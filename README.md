@@ -1,4 +1,6 @@
-这个脚本基于PDF Password Remover，使用前请先安装 PDF Password Remover(www.verypdf.com)。
+NOTE:
+1. 这个脚本基于PDF Password Remover，使用前请先安装 PDF Password Remover(www.verypdf.com)。
+2. 请先安装python3.5+，或者自行编译为exe使用。
 
 使用方法：
 1. 把脚本放到PDF Password Remover的安装目录。
